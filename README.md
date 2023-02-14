@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://tanjilulkarim.github.io/Portfolio-site/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shahidullah.netlify.app/)**
 
 - 📫 How to reach me **shohidkhan4361@gmail.com**
 
