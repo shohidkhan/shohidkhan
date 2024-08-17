@@ -32,6 +32,7 @@
      src="https://img.icons8.com/?size=100&id=XH6rVkDQCZ9U&format=png&color=000000"/></a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://tailwindcss.com/docs/installation" target="_blank"> <img style="width:60px" src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"/> </a>
+    <a href="https://laravel.com" target="_blank"> <img style="width:60px" src="https://img.icons8.com/?size=100&id=lRjcvhvtR81o&format=png&color=000000"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 <!--     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  -->
