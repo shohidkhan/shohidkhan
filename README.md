@@ -26,6 +26,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img 
      src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+    <a href="https://www.php.net" style="width:60px" target="_blank"><img 
+     src="https://www.php.net/images/logos/new-php-logo.png"/></a>
     <a href="https://jquery.com/" target="_blank"><img style="width:60px"
      src="https://img.icons8.com/?size=100&id=XH6rVkDQCZ9U&format=png&color=000000"/></a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
