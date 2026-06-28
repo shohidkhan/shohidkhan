@@ -63,6 +63,44 @@
 
 ---
 
+## 🧠 Skills
+
+### 🎨 Frontend
+- **HTML5 & CSS3** — Semantic markup, responsive layouts, animations
+- **JavaScript (ES6+)** — DOM manipulation, async/await, REST API integration
+- **React.js** — Functional components, Hooks, Context API, performance optimization
+- **Redux Toolkit** — Global state management, RTK Query, async thunks
+- **React Router DOM** — Client-side routing, protected routes, nested layouts
+- **Tailwind CSS** — Utility-first styling, Tailwind v4, custom design systems
+- **Bootstrap** — Rapid UI development, grid system, responsive components
+- **jQuery** — DOM manipulation, AJAX, event handling
+
+### ⚙️ Backend
+- **PHP & Laravel** — MVC architecture, Eloquent ORM, Blade templating
+- **Laravel Features** — Breeze auth, Spatie permissions, repository/service pattern, middleware, queues
+- **Node.js & Express** — RESTful APIs, middleware chains, JWT authentication
+- **Authentication** — Session-based auth, JWT (cookie & header), OAuth 2.0 (Firebase Google)
+
+### 🗄️ Database
+- **MySQL** — Relational schema design, migrations, query optimization
+- **MongoDB & Mongoose** — Document modeling, aggregation pipeline, population
+- **Database Design** — ERD, DBML schema writing, normalization
+
+### ☁️ Cloud & DevOps
+- **Cloudinary** — Image upload, transformation, CDN delivery
+- **Firebase** — Google OAuth, Realtime Database basics
+- **Git & GitHub** — Branching, pull requests, collaborative workflow
+- **Postman** — API testing, environment variables, collection management
+
+### 🛠️ Dev Tools & Practices
+- **Laravel Herd** — Local PHP development environment
+- **Vite** — Fast build tooling, HMR, asset bundling
+- **Role-Based Access Control (RBAC)** — Spatie permissions (Laravel), middleware guards (Node.js)
+- **OTP & Email Verification** — Custom flows with queued mail
+- **Drag & Drop UI** — File upload interfaces with preview
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
