@@ -108,5 +108,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shohidkhan&theme=tokyonight&hide_border=true" width="47%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohidkhan&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
